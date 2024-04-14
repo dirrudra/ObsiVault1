@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "a81c7ce1b98264b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "26985c147c0513c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aff7b2169a4cde5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Roles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94076aae2fe66126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FsD Assignments/Use Cases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "762e0572e61924b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Library management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cc2b55cb0263032",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
+          },
+          {
+            "id": "8a37b8ca62926421",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SDE Journey/Skills Needed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "801b6e528db10950",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ResumeLLM/Resume Website Builder Project.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "daf896d9cd7d9199",
+    "type": "split",
+    "children": [
+      {
+        "id": "6bf0fea367d44641",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f4793be180cbb5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e4203eeaed295f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eb39361526beff1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee737a146490462d",
+    "type": "split",
+    "children": [
+      {
+        "id": "dee84bbe3c82dc33",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a39758c6af37dd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ResumeLLM/Resume Website Builder Project.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "141bd4deb0e11ac8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ResumeLLM/Resume Website Builder Project.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33f9e494f8cd03d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e60a36e2d8dfdc0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ResumeLLM/Resume Website Builder Project.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "801b6e528db10950",
+  "lastOpenFiles": [
+    "Library management.md",
+    "SDE Journey/Skills Needed.md",
+    "ResumeLLM/Resume Website Builder Project.md",
+    "ResumeLLM",
+    "SDE Journey",
+    "WhatsApp Image 2024-02-20 at 8.37.52 AM.jpeg",
+    "FsD Assignments/Use Cases.md",
+    "DnD/Roles.md",
+    "FsD Assignments",
+    "DnD"
+  ]
+}
